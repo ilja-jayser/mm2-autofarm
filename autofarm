@@ -1,4 +1,4 @@
-local abc = 50 --сколько вы примерно должны собрать монет
+local abc = 100
 print("старт")
 game.Players.LocalPlayer.Character.Humanoid.Health = 0
 wait(5)
